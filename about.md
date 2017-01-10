@@ -4,7 +4,7 @@ title: Graphs
 ---
 
 * Gravizo Online
-'''
+
 ![Alt text](http://g.gravizo.com/g?
   digraph G {
     aize ="4,4";
@@ -22,7 +22,8 @@ title: Graphs
     execute -> compare;
   }
 )
-'''
+
+
 
 * Graphviz-Plugin
 
